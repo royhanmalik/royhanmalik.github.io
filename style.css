@@ -1,14 +1,11 @@
 body {
-    background-color:gray
+    background-color:gray;
 }
 
-
-
-
 h1 {
-    background-color: yellowgreen
+    color:red;
 }
 
 p {
-    background-color: blue
+    color:blue;
 }
